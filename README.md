@@ -49,3 +49,11 @@
   - Feature engineering (like combining genres, descriptions, and keywords) can significantly improve recommendation quality.
   - User feedback can be integrated to improve recommendations over time.
 
+### Future Improvements
+
+  - Incorporate TF-IDF Vectorizer for better textual feature representation.
+  - Implement a collaborative filtering approach.
+  - Add user preferences & ratings for personalized recommendations.
+  - Deploy as a full-fledged web or mobile application.
+
+
